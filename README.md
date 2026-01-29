@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 ![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noobbeamerboy&layout=compact&theme=vision-friendly-dark)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=noobbeamerboy&show_icons=true&theme=vision-friendly-dark)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
